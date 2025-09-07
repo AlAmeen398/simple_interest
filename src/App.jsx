@@ -75,7 +75,7 @@ function App() {
     <>
       <div style={{ backgroundColor: "black", height: '100vh' }}
         className="d-flex justify-content-center align-items-center">
-        <div style={{ backgroundColor: 'white', width: "500px" }} className="rounded p-5">
+        <div style={{ backgroundColor: 'white', width: "501px" }} className="rounded p-5">
           <h2>Simple Interest</h2>
           <p>Calculte your simple interest Easily</p>
           <div style={{ backgroundColor: "orange", height: '150px', borderRadius: '5px' }} className="d-flex justify-content-center 
